@@ -6,7 +6,7 @@
     Get detailed information from any remote computer.
 
 .PARAMETER Devices
-	Parameter to specify the device(s) in which the script should target.
+    Parameter to specify the device(s) in which the script should target.
 
 .PARAMETER CreateCSVOnly
     This parameter will generate the CSV's on the specified device and then move then to a directory on the root of your drive (C:\TMP\<ComputerName>).
