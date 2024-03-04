@@ -4,3 +4,6 @@ PowerShell script to audit a Windows Operating System. Specifically domian joine
 ## Installation
 (Prerequisite: Excel)
 Copy the Get-WindowsDeviceAudit folder into a module folder for your PowerShell Path environment.
+
+## Example
+![example](https://github.com/ozruxo/GetWindowsDeviceAudit/tree/main/example/example.png)
